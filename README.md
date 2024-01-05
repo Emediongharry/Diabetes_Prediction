@@ -71,7 +71,7 @@ A logistic regression algorithm is used to make predictions and check accuracy. 
 ## Creating a User Interface for Accessibility
 The final phase of the project involves developing a user interface for the model. This interface allows users to input new data, enabling the model to analyze it and provide predictions. The user interface is constructed utilizing the "Django" web framework, along with Hyper Text Markup Language (HTML) and Cascading Style Sheets (CSS).
 
-Click [here](https://github.com/Emediongharry/Diabetes_Prediction/tree/main/DiabetesPredictions) to view the source files.
+**Click [here](https://github.com/Emediongharry/Diabetes_Prediction/tree/main/DiabetesPredictions) to view the source files.**
 
 
 ## Results and Analysis:
