@@ -9,11 +9,19 @@ performed using Python IDEs. The dataset was collected from the Pima Indians Dia
 Below are the columns contained and their definitions:
 
 
-**Pregnancies:** Number of times pregnant //
-**Glucose:** Plasma glucose concentration  over two hours orally glucose tolerance test //
+**Pregnancies:** Number of times pregnant 
+
+**Glucose:** Plasma glucose concentration  over two hours orally glucose tolerance test
+
 **BloodPressure:** Diastolic blood pressure (mm Hg)
+
+
 **SkinThickness:** Triceps skinfold thickness (mm)
+
+
 **Insulin:** 2-Hour serum insulin (mu U/ml)
+
+
 **BMI:** Body mass index (weight in kg/(height in m)^2)
 **DiabetesPedigreeFunction:** A function that calculates the probability diabetes based on family history.
 **Age:** Age in years
