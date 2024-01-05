@@ -1,6 +1,6 @@
 # Diabetes Prediction and Data Visualization
 
-!(https://github.com/Emediongharry/Diabetes_Prediction/blob/main/DiabetesPredictions/DiabetesPrediction/static/DiabetesPrediction/images/Picture1.jpg)
+![alt text](/DiabetesPredictions/DiabetesPrediction/static/DiabetesPrediction/images/Picture1.jpg)
 
 ## Introduction 
 
@@ -46,7 +46,7 @@ The data-cleaning process began with:
 
 After carefully confirming all quality issues, I concluded the data was clean and suitable for analysis.
 
-**Click [here](Diabetes_Prediction/Diabetes Prediction Viz.md) to view the Python script crafted with jupyter notebook.**
+**Click [here](https://github.com/Emediongharry/Diabetes_Prediction/blob/main/Diabetes%20Prediction%20Viz.ipynb) to view the Python script crafted with jupyter notebook.**
 
 
 ## Analysis and Visualization
