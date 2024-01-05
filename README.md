@@ -1,6 +1,6 @@
 # Diabetes Prediction and Data Visualization
 
-![alt text](/DiabetesPredictions/DiabetesPrediction/static/DiabetesPrediction/images/Picture1.jpg)
+![alt text](/Diabetes_Prediction/DiabetesPredictions/DiabetesPrediction/static/DiabetesPrediction/images/Picture1.jpg)
 
 ## Introduction 
 
