@@ -46,7 +46,7 @@ The data-cleaning process began with:
 
 After carefully confirming all quality issues, I concluded the data was clean and suitable for analysis.
 
-**Click here [here]([url](https://github.com/Emediongharry/Diabetes_Prediction/blob/main/Diabetes%20Prediction%20Viz.ipynb)) to view the Python script crafted with jupyter notebook.**
+**Click [here]([https://github.com/Emediongharry/Diabetes_Prediction/blob/main/Diabetes%20Prediction%20Viz.ipynb](https://github.com/Emediongharry/Diabetes_Prediction/blob/main/Diabetes%20Prediction%20Viz.ipynb)) to view the Python script crafted with jupyter notebook.**
 
 
 ## Analysis and Visualization
