@@ -71,6 +71,8 @@ A logistic regression algorithm is used to make predictions and check accuracy. 
 ## Creating a User Interface for Accessibility
 The final phase of the project involves developing a user interface for the model. This interface allows users to input new data, enabling the model to analyze it and provide predictions. The user interface is constructed utilizing the "Django" web framework, along with Hyper Text Markup Language (HTML) and Cascading Style Sheets (CSS).
 
+Click [here](https://github.com/Emediongharry/Diabetes_Prediction/tree/main/DiabetesPredictions) to view the source files.
+
 
 ## Results and Analysis:
 The project predicts the likelihood of diabetes onset in an individual by analyzing pertinent medical information. Upon entering the necessary medical data on the online web portal, the information is transmitted to the trained model, which then assesses whether the individual is diabetic or non-diabetic. The model achieves a commendable accuracy of 79%, considering the limited dataset of only 768 rows, indicating its reliability and effectiveness.
