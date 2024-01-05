@@ -5,7 +5,10 @@
 In this project, we design a predictive model that predicts whether a patient will develop diabetes, based on certain diagnostic measures in the dataset, and explore different techniques to improve performance and accuracy. Logistic regression is the main algorithm used in this article and the analysis was
 performed using Python IDEs. The dataset was collected from the Pima Indians Diabetes Database and is available on Kaggle. It consists of several medical analyst variables and one target variable. The objective of the dataset is to predict whether the patient has diabetes. The dataset consists  of several  independent  variables   and  one  dependent  variable,  i.e.,  the  outcome. Independent variables include the number of pregnancies the patient  has  had their BMI, insulin level, age, and so on. The dataset consists of 768 rows and 9 columns. 
 
+
 Below are the columns contained and their definitions:
+
+
 **Pregnancies:** Number of times pregnant
 **Glucose:** Plasma glucose concentration  over two hours orally glucose tolerance test
 **BloodPressure:** Diastolic blood pressure (mm Hg)
