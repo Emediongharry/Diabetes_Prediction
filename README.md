@@ -1,6 +1,5 @@
 # Diabetes Prediction and Data Visualization
 
-![alt text](https://github.com/Emediongharry/Diabetes_Prediction/blob/main/DiabetesPredictions/DiabetesPrediction/static/DiabetesPrediction/images/Picture1.jpg)
 
 ## Introduction 
 
